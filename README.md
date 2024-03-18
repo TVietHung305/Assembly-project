@@ -1,2 +1,2 @@
 # Assembly-project
-Write a simple OS
+Write a simple bootloader
