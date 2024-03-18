@@ -1,2 +1,2 @@
 # Assembly-project
-Write my own OS
+Write a simple OS
